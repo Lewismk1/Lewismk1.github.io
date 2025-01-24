@@ -6,7 +6,7 @@
     "email": "19monaghan.l@nef.tynecoast.academy",
     "phone": "07703673601",
     "website": "https://lewismk1.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I'm an A level student at North East Futures UTC. I expect to finish in summer 2026",
     "location": { "address": "", "postalCode": "", "city": "Newcastle upon Tyne", "countryCode": "UK" },
     "profiles": [
       { "network": "github", "username": "Lewismk1", "url": "http://github.com/Lewismk1" },
@@ -21,20 +21,20 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Computing",
+      "keywords": [ "Sketchup", "Blender", "Python" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Interpersonal Skills",
+      "keywords": [ "Teaching", "Teamwork", "Communication", "Adaptability" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "North East Futures UTC, Newcastle Upon Tyne",
+      "area": "Computer Science, Chemistry & Psychology",
+      "studyType": "A-Levels",
+      "startDate": "2024-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,69 +42,39 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Wylam Brewery",
+      "position": "Server",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-07-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed communication skills through handling customers",
+        "Multitask skills through having different responsibilities in my position",
+        "Serving food to guests and clearing plates"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Royal Air Force Cadets",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Cadet Sergeant",
+      "startDate": "2021-01-01",
+      "endDate": "Present",
+      "summary": "Oversees squardron inventory & assists in Duke of Edinburugh management",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Gained valuable skills that can be used in the workplace",
+        "Teach cadets classification, allowing them to progress through their cadet career",
+        "Plan & communicate with fellow NCOs to provide a better learning environment & to ansure fun activities that allow cadets to grow as people"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Duke of Edinburgh's Award Scheme",
+      "date": "2022-Present",
+      "awarder": "The Duke of Edinburugh's Award",
+      "summary": "Having completed Bronze & Silver, I'm currently working on my Gold award through Cadets. I've furthered my communication, teamwork, and time-management skills and mentored new recruits in my squardron"
     }
   ],
   "references": [
