@@ -13,9 +13,9 @@
       { "network": "linkedin", "username": "lewis-monaghan-172355346", "url": "https://uk.linkedin.com/in/lewis-monaghan-172355346" }
     ]
   },
-  "interests": [
+  [
     { "name": "I have an intrest in architecture with a focus on sustainable principles to my designs" },
-    { "name": "I am also passionate about chemistry, being one of my favourite subjects currently while studying A-levels" }
+    { "name": "I am also passionate about chemistry, being one of my favourite subjects currently while studying A-levels." }
   ],
   "skills": [
     {
