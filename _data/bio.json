@@ -14,10 +14,8 @@
     ]
   },
   "interests": [
-    { "name": "Architecture" },
-    { "name": "Chemistry" },
-    { "name": "Sustainability" },
-    { "name": "Graphic Design" }
+    { "name": "I have an intrest in architecture with a focus on sustainable principles to my designs" },
+    { "name": "I am also passionate about chemistry, being one of my favourite subjects currently while studying A-levels" }
   ],
   "skills": [
     {
