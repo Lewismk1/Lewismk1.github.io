@@ -15,6 +15,9 @@
   },
   "interests": [
     { "name": "Architecture", "keywords": ["Sustainable design", "Environmental principles"] },
+    { "name": "Sustainable practice" },
+    { "name": "Chemistry" },
+    { "name": "Envrionmental impacts" }
   ],
   "skills": [
     {
@@ -33,7 +36,6 @@
       "studyType": "A-Levels",
       "startDate": "2024-09-01",
       "endDate": "Present"
-      ]
     }
   ],
   "work": [
