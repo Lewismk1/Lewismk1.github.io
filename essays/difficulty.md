@@ -9,8 +9,6 @@ labels:
   - Architecture
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 Chapters
 
          Introduction (p.1)
