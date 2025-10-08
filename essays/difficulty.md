@@ -6,7 +6,7 @@ title: "How can industrial architecture be made more sustainable in the UK?"
 date: 2025-02-19
 published: true
 labels:
-  - Architecture
+  - Architecture, Sustainability, Industrial
 ---
 
 Chapters
