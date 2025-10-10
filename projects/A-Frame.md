@@ -2,13 +2,14 @@
 layout: project
 type: project
 image: img/a-frame/square.png
-title: "A Frame House Design"
-date: 2024
-published: false
+title: "Running Cafe"
+date: 2025
+published: true
 labels:
   - Architecture
-  - GitHub
-summary: "A-frame house I designed as a project using a friend as a mock client"
+  - Sustainable
+  - Environmentally cautious
+summary: "Designed a cafe designed for runners and outdoors oriented people that took into account part of the environment, my first ever project alongside Ryder Architecture"
 ---
 
 Content goes here
