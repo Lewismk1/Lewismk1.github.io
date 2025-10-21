@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/a-frame/square.png
+image: img/runningcafe/cafeview.png
 title: "Running Cafe"
 date: 2024
 published: true
